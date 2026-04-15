@@ -1,0 +1,62 @@
+body{
+    background-color:black;
+    text-align: center;
+    text-decoration: dashed;
+    animation-direction: alternate-reverse;
+
+}
+
+h1{
+    color:#ffffff ;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+img{
+    width: 500px;
+    border-radius: 20px;
+    animation-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+
+}
+
+
+#elliot{
+    border-radius: 70px;
+    background-color:white;
+    width: 1800px;
+    flex:20px;
+    margin: auto;
+}
+.botao1{
+    scrollbar-width: auto;
+    scrollbar-color: initial;
+    box-shadow: inset;
+    background-color:black;
+    border-radius: 10%;    
+    
+}
+
+#society{
+    border-radius: 70px;
+    background-color: #ffffff;
+    width: 1800px;
+    margin: auto;
+}
+
+.masc{
+    width: 350px;
+    border-radius: 20px;
+    margin: auto;
+    flex: auto;
+}
+
+section{
+    height: 800px;;
+}
