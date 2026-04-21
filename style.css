@@ -17,6 +17,8 @@ h2{
 p{
     color: rgb(0, 0, 0);
     font-family: sans-serif;
+    font-size: 20px;
+
 }
 
 img{
@@ -43,6 +45,16 @@ img{
     
 }
 
+
+.botao2{
+    scrollbar-width: auto;
+    scrollbar-color: initial;
+    box-shadow: inset;
+    background-color:black;
+    border-radius: 10%;    
+    width: 50px;
+    height: 20px;
+}
 #society{
     border-radius: 70px;
     background-color: #ffffff;
@@ -58,5 +70,11 @@ img{
 }
 
 section{
-    height: 800px;;
+    height: 600px;
+}
+
+#linux{
+    border-radius: 70px;
+    border-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 }
